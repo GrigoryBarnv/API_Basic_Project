@@ -16,12 +16,18 @@ Users can:
 - View bar charts with average value reference lines
 - Identify teams that significantly over- or underperform using statistical thresholds
 
+- ![image](https://github.com/user-attachments/assets/fe8d5fa0-4096-44af-958d-685385947346)
+
+
 ### 2. Matchday Result Analyzer
 - Select a team and matchday (1–34)
 - View full match information including:
   - Home and away teams with official logos
   - Final score
   - Visual indicator for win, loss, or draw
+
+![image](https://github.com/user-attachments/assets/83ddc036-e6f6-424f-a516-f0540c2a5e9e)
+
 
 All data is dynamically fetched and displayed in a clean, readable layout.
 
@@ -30,10 +36,12 @@ All data is dynamically fetched and displayed in a clean, readable layout.
 - Custom team icons with interactive popups showing match statistics
 - Side-by-side comparison of any two teams based on number of matches won
 
+![image](https://github.com/user-attachments/assets/63a0e76d-c83b-4e72-bed2-e6f1e3d057ad)
+
+
 ## Project Highlights
 - Real-time API data fetching and parsing
 - Statistical evaluation using standard deviation
 - Fully interactive frontend with ipywidgets and Folium maps
-- Modular code structure and reusable components
 
-This project reflects practical data science and software engineering skills and is designed with clarity, extensibility, and user interaction in mind.
+This project reflects practical data science and software engineering skills.
